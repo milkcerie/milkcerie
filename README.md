@@ -1,7 +1,7 @@
-- 📜 hi, I’m @not-mira!
-- 🎹 I’m interested in ai, data science, full-stack application & ui development, and game development.
-- 🤎 i have varied proficiency in html/css, js, py but a bit rusty so trying to brush up :)
-- 🎻 I’m currently working on various projects! (trying to figure out my neocities)
+- 📜 hi, i'm mira!
+- 🎹 I’m interested in data visualization/analysis, ui/ux, application development, and game design
+- 🤎 i have varied proficiency in html/css, java, py but a bit rusty so trying to brush up :)
+- 🎻 I’m currently working on various projects!
 
 
 <!---
